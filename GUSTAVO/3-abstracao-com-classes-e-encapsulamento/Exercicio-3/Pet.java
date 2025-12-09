@@ -1,23 +1,21 @@
 public class Pet {
-
     private final String nome;
-
     private boolean isClean;
 
     public Pet(String nome) {
-            this.nome;
-            this.isClean = false;
-        }
+        this.nome = nome;
+        this.isClean = false;
+    }
 
     public String getNome() {
         return nome;
     }
 
-    public boolean limpo() {
+    public boolean isClean() {
         return isClean;
     }
 
     public void setClean(final boolean clean) {
-        this.clean = clean;
+        this.isClean = clean;
     }
 }
