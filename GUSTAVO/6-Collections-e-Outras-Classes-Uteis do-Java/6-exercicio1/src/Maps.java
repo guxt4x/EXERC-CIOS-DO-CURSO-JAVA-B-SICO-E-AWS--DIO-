@@ -5,4 +5,8 @@ public class Maps {
     public Maps (String content) {
         this.content = content;
     }
+
+    public getContent () {
+        return content;
+    }
 }
