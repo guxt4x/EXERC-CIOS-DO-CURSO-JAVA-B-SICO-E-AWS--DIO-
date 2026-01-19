@@ -3,15 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GUSTAVO/3-abstracao-com-classes-e-encapsulamento/3-abstracao-com-classes-e-encapsulamento.iml" filepath="$PROJECT_DIR$/GUSTAVO/3-abstracao-com-classes-e-encapsulamento/3-abstracao-com-classes-e-encapsulamento.iml" />
-      <module fileurl="file://$PROJECT_DIR$/GUSTAVO/4-heranca-e-polimorfismo/4-heranca-e-polimorfismo.iml" filepath="$PROJECT_DIR$/GUSTAVO/4-heranca-e-polimorfismo/4-heranca-e-polimorfismo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/GUSTAVO/5-Dominando-Interfaces-e-Lambda/5-Dominando-Interfaces-e-Lambda.iml" filepath="$PROJECT_DIR$/GUSTAVO/5-Dominando-Interfaces-e-Lambda/5-Dominando-Interfaces-e-Lambda.iml" />
-      <module fileurl="file://$PROJECT_DIR$/GUSTAVO/5-Dominando-Interfaces-e-Lambda/5-exercicio1/5-exercicio1.iml" filepath="$PROJECT_DIR$/GUSTAVO/5-Dominando-Interfaces-e-Lambda/5-exercicio1/5-exercicio1.iml" />
       <module fileurl="file://$PROJECT_DIR$/GUSTAVO/5-Dominando-Interfaces-e-Lambda/5-exercicio2/5-exercicio2.iml" filepath="$PROJECT_DIR$/GUSTAVO/5-Dominando-Interfaces-e-Lambda/5-exercicio2/5-exercicio2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/GUSTAVO/6 - Collections-Classes-Uteis-do-Java/6 - Collections-Classes-Uteis-do-Java.iml" filepath="$PROJECT_DIR$/GUSTAVO/6 - Collections-Classes-Uteis-do-Java/6 - Collections-Classes-Uteis-do-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUSTAVO/5-Dominando-Interfaces-e-Lambda/5-exercicio3/5-exercicio3.iml" filepath="$PROJECT_DIR$/GUSTAVO/5-Dominando-Interfaces-e-Lambda/5-exercicio3/5-exercicio3.iml" />
       <module fileurl="file://$PROJECT_DIR$/GUSTAVO/6-Collections-e-Outras-Classes-Uteis do-Java/6-Collections-e-Outras-Classes-Uteis do-Java.iml" filepath="$PROJECT_DIR$/GUSTAVO/6-Collections-e-Outras-Classes-Uteis do-Java/6-Collections-e-Outras-Classes-Uteis do-Java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/GUSTAVO/6-Collections-e-Outras-Classes-Uteis do-Java/6-exercicio1/6-exercicio1.iml" filepath="$PROJECT_DIR$/GUSTAVO/6-Collections-e-Outras-Classes-Uteis do-Java/6-exercicio1/6-exercicio1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/EXERC-CIOS-DO-CURSO-JAVA-B-SICO-E-AWS--DIO-.iml" filepath="$PROJECT_DIR$/.idea/EXERC-CIOS-DO-CURSO-JAVA-B-SICO-E-AWS--DIO-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUSTAVO/6-Collections-e-Outras-Classes-Uteis do-Java/6-Exercicio1/6-Exercicio1.iml" filepath="$PROJECT_DIR$/GUSTAVO/6-Collections-e-Outras-Classes-Uteis do-Java/6-Exercicio1/6-Exercicio1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/EXERCICIOS-DO-CURSO-JAVA-BASICO-E-AWS-DIO.iml" filepath="$PROJECT_DIR$/.idea/EXERCICIOS-DO-CURSO-JAVA-BASICO-E-AWS-DIO.iml" />
       <module fileurl="file://$PROJECT_DIR$/GUSTAVO/3-abstracao-com-classes-e-encapsulamento/Exercicio-1/Exercicio-1.iml" filepath="$PROJECT_DIR$/GUSTAVO/3-abstracao-com-classes-e-encapsulamento/Exercicio-1/Exercicio-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUSTAVO/3-abstracao-com-classes-e-encapsulamento/Exercicio-2/Exercicio-2.iml" filepath="$PROJECT_DIR$/GUSTAVO/3-abstracao-com-classes-e-encapsulamento/Exercicio-2/Exercicio-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/GUSTAVO/GUSTAVO.iml" filepath="$PROJECT_DIR$/GUSTAVO/GUSTAVO.iml" />
       <module fileurl="file://$PROJECT_DIR$/GUSTAVO/4-heranca-e-polimorfismo/exercicio-1/exercicio-1.iml" filepath="$PROJECT_DIR$/GUSTAVO/4-heranca-e-polimorfismo/exercicio-1/exercicio-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/GUSTAVO/4-heranca-e-polimorfismo/exercicio-2/exercicio-2.iml" filepath="$PROJECT_DIR$/GUSTAVO/4-heranca-e-polimorfismo/exercicio-2/exercicio-2.iml" />
